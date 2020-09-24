@@ -7,3 +7,6 @@
     a. LinkedList.java: Creates a Linked List using generics in Java and demonstrates some of the methods (Created with a partner) <br/>
     b. Queue.java and Stack.java are impemented by LinkedList.java (I did not write these, author: Adam Smith)
 6. DoublyLinkedList.java: Creates a Doubly Linked List using generics in Java and demonstrates some of the methods
+7. Graph Folder: <br />
+    a. Graph.java: Creates a Graph object that can either be directed or undirected <br/>
+    b. GraphIfc.java is impemented by Graph.java (I did not write these, author: alchambers)
